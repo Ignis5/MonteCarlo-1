@@ -1,0 +1,36 @@
+[33mcommit f9642ccc1d9acb26283597e5b801951baf0d922e[m
+Author: Rimantė Baltutytė <baltutyte@gmail.com>
+Date:   Tue Oct 9 18:32:57 2012 +0200
+
+    Atsitiktiniu vektoriu generavimas
+
+[33mcommit d43ccac2320be2817177a9a473e34a657464d0b8[m
+Merge: 4ce2e5e 7ea6425
+Author: Rimantė Baltutytė <baltutyte@gmail.com>
+Date:   Tue Oct 9 17:57:36 2012 +0200
+
+    Isprendziau suliejimo konflikta del kintamuju aprasu
+
+[33mcommit 4ce2e5e4ff20bd4d87017d7ddf3f024c155aa581[m
+Author: Rimantė Baltutytė <baltutyte@gmail.com>
+Date:   Tue Oct 9 17:39:20 2012 +0200
+
+    Pasitvarkiau kintamuju aprasyma
+
+[33mcommit 7ea64253bf7dd757e926b7b38d2d49dd85e1b839[m
+Author: Rimantė Baltutytė <baltutyte@gmail.com>
+Date:   Tue Oct 9 17:33:36 2012 +0200
+
+    Papildziau kintamuju aprasyma
+
+[33mcommit d7123965d18467eadfd8086aa2ce9228f78c6c01[m
+Author: Rimantė Baltutytė <baltutyte@gmail.com>
+Date:   Tue Oct 9 17:10:43 2012 +0200
+
+    Apsirasiau algoritmo kintamuosius
+
+[33mcommit 38dc27c01b00d0febb144bca1cc9bcf8b2d17634[m
+Author: Rimantė Baltutytė <baltutyte@gmail.com>
+Date:   Tue Oct 9 16:56:00 2012 +0200
+
+    1 versija
